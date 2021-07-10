@@ -1,5 +1,5 @@
 #Runtime: 20 ms, faster than 99.06% of Python3 online submissions for Implement Queue using Stacks.
-#Memory Usage: 14.4 MB, less than 43.00% of Python3 online submissions for Implement Queue using Stacks.
+#Memory Usage: 14.1 MB, less than 90.67% of Python3 online submissions for Implement Queue using Stacks.
 
 class MyQueue:
 

@@ -1,5 +1,5 @@
-#Runtime: 36 ms, faster than 95.76% of Python3 online submissions for Fizz Buzz.
-#Memory Usage: 15.1 MB, less than 22.39% of Python3 online submissions for Fizz Buzz.
+#Runtime: 32 ms, faster than 99.11% of Python3 online submissions for Fizz Buzz.
+#Memory Usage: 15.1 MB, less than 64.81% of Python3 online submissions for Fizz Buzz.
 
 class Solution:
     def fizzBuzz(self, n: int) -> List[str]:

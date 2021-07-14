@@ -1,5 +1,5 @@
-#Runtime: 24 ms, faster than 95.18% of Python3 online submissions for Hamming Distance.
-#Memory Usage: 14.3 MB, less than 43.69% of Python3 online submissions for Hamming Distance.
+#Runtime: 20 ms, faster than 99.10% of Python3 online submissions for Hamming Distance.
+#Memory Usage: 14.4 MB, less than 11.76% of Python3 online submissions for Hamming Distance.
 
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:

@@ -1,4 +1,4 @@
-#Runtime: 148 ms, faster than 97.44% of Python3 online submissions for Assign Cookies.
+#Runtime: 144 ms, faster than 99.33% of Python3 online submissions for Assign Cookies.
 #Memory Usage: 15.8 MB, less than 90.50% of Python3 online submissions for Assign Cookies.
 
 class Solution:

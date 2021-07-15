@@ -3,7 +3,7 @@ LeetCode solution
 
 file_name = title_number + hardness(M or H) + (ref) + title_name
 
-title_number: supplement to 4 digits for ordering with numbers
+title_number: supplement to 4 digits for ordering with numbers\n
 hardness: '' == easy, 'M' == Medium, 'H' == Hard
 (ref): the code is refered to other's, not by myself.
 title_name: the problem's name

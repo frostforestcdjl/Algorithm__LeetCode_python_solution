@@ -1,5 +1,5 @@
-#Runtime: 1168 ms, faster than 90.41% of Python3 online submissions for Maximum Average Subarray I.
-#Memory Usage: 26.2 MB, less than 35.71% of Python3 online submissions for Maximum Average Subarray I.
+#Runtime: 1144 ms, faster than 95.17% of Python3 online submissions for Maximum Average Subarray I.
+#Memory Usage: 26.1 MB, less than 35.71% of Python3 online submissions for Maximum Average Subarray I.
 
 class Solution:
     def findMaxAverage(self, nums, k: int) -> float:

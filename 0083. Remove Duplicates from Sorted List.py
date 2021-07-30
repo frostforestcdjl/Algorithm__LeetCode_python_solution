@@ -1,5 +1,5 @@
-#Runtime: 36 ms, faster than 94.09% of Python3 online submissions for Remove Duplicates from Sorted List.
-#Memory Usage: 14.3 MB, less than 55.40% of Python3 online submissions for Remove Duplicates from Sorted List.
+#Runtime: 40 ms, faster than 81.67% of Python3 online submissions for Remove Duplicates from Sorted List.
+#Memory Usage: 14 MB, less than 94.20% of Python3 online submissions for Remove Duplicates from Sorted List.
   
 # Definition for singly-linked list.
 # class ListNode:

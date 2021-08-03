@@ -1,5 +1,5 @@
-#Runtime: 24 ms, faster than 97.55% of Python3 online submissions for Simplify Path.
-#Memory Usage: 14.4 MB, less than 45.52% of Python3 online submissions for Simplify Path.
+#Runtime: 32 ms, faster than 71.86% of Python3 online submissions for Simplify Path.
+#Memory Usage: 14.1 MB, less than 90.67% of Python3 online submissions for Simplify Path.
 
 class Solution:
     def simplifyPath(self, path: str) -> str:

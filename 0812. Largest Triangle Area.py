@@ -1,5 +1,5 @@
-#Runtime: 120 ms, faster than 81.69% of Python3 online submissions for Largest Triangle Area.
-#Memory Usage: 14.2 MB, less than 84.75% of Python3 online submissions for Largest Triangle Area.
+#Runtime: 116 ms, faster than 86.10% of Python3 online submissions for Largest Triangle Area.
+#Memory Usage: 14.1 MB, less than 84.75% of Python3 online submissions for Largest Triangle Area.
 
 class Solution:
     def largestTriangleArea(self, points: List[List[int]]) -> float:

@@ -1,5 +1,5 @@
-#Runtime: 32 ms, faster than 84.38% of Python3 online submissions for Partition List.
-#Memory Usage: 14 MB, less than 95.86% of Python3 online submissions for Partition List.
+#Runtime: 28 ms, faster than 95.05% of Python3 online submissions for Partition List.
+#Memory Usage: 14.2 MB, less than 84.72% of Python3 online submissions for Partition List.
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -14,14 +14,11 @@ class Solution:
             if head.val >= x:
                 big.next = head
                 big = big.next
-                head = head.next
             else:
                 small.next = head
                 small = small.next
-                head = head.next
+            head = head.next
         if big.next:
             big.next = None
-        if small.next:
-            small.next = None
         small.next = rebig.next
         return resmall.next

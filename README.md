@@ -1,6 +1,6 @@
 # archive_LeetCode
 ```diff
-@@ LeetCode Solution Progress: 
+@@ LeetCode Solution Progress: @@
 + Easy:167
 ! Medium:43
 - Hard:6

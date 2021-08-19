@@ -1,7 +1,10 @@
 # archive_LeetCode
 LeetCode solution
 ```diff
-Progress: Easy:167 / Medium:43 / Hard:6
+Progress: 
++ Easy:167
+! Medium:43
+- Hard:6
 ```
 file_name = language + title_number + hardness(M or H) + (ref) + title_name
 

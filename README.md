@@ -1,9 +1,9 @@
 # archive_LeetCode
 ```diff
 @@ LeetCode Solution Progress: @@
-+ Easy:167
-! Medium:43
-- Hard:6
++ Easy:167/511
+! Medium:43/1043
+- Hard:6/419
 ```
 
 file_name = language + title_number + hardness(M or H) + (ref) + title_name

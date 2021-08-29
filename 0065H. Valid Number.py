@@ -7,11 +7,11 @@ class Solution:
         if s[0] == 'e' or s[-1] == 'e' or s[-1] == '+' or s[-1] == '-':
             return False
         text = list(s)
-        ava_l = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '.', '+', '-', 'e', 'E'}
+        sign_l = {'.', '+', '-', 'e'}
         num_l = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'}
         n_check = False
         for i in text:
-            if i not in ava_l:
+            if i not in num_l and i not in sign_l:
                 return False
             if i in num_l:
                 n_check = True

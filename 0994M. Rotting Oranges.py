@@ -1,5 +1,5 @@
-#Runtime: 67 ms, faster than 16.85% of Python3 online submissions for Rotting Oranges.
-#Memory Usage: 13.9 MB, less than 99.66% of Python3 online submissions for Rotting Oranges.
+#Runtime: 36 ms, faster than 99.91% of Python3 online submissions for Rotting Oranges.
+#Memory Usage: 14.3 MB, less than 38.95% of Python3 online submissions for Rotting Oranges.
 
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:

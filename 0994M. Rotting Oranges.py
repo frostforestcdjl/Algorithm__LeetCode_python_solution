@@ -34,6 +34,4 @@ class Solution:
                     new_rot.append([i,j+1])
             rot = new_rot
             count += 1
-        if fresh:
-            return -1
-        return count
+       return -1 if fresh else count

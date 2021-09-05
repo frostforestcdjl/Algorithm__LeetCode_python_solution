@@ -1,5 +1,5 @@
-#Runtime: 168 ms, faster than 9.82% of Python3 online submissions for Contains Duplicate.
-#Memory Usage: 18.6 MB, less than 98.52% of Python3 online submissions for Contains Duplicate.
+#Runtime: 124 ms, faster than 45.46% of Python3 online submissions for Contains Duplicate.
+#Memory Usage: 18.6 MB, less than 98.45% of Python3 online submissions for Contains Duplicate.
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:

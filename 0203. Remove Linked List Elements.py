@@ -1,5 +1,5 @@
-#Runtime: 79 ms, faster than 23.83% of Python3 online submissions for Remove Linked List Elements.
-#Memory Usage: 17.2 MB, less than 66.78% of Python3 online submissions for Remove Linked List Elements.
+#Runtime: 65 ms, faster than 74.43% of Python3 online submissions for Remove Linked List Elements.
+#Memory Usage: 17.1 MB, less than 66.78% of Python3 online submissions for Remove Linked List Elements.
 
 # Definition for singly-linked list.
 # class ListNode:

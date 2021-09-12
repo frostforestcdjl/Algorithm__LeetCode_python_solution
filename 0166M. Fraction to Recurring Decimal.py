@@ -1,5 +1,5 @@
-#untime: 55 ms, faster than 7.27% of Python3 online submissions for Fraction to Recurring Decimal.
-#Memory Usage: 14.2 MB, less than 96.71% of Python3 online submissions for Fraction to Recurring Decimal.
+#Runtime: 28 ms, faster than 86.36% of Python3 online submissions for Fraction to Recurring Decimal.
+#Memory Usage: 14.4 MB, less than 36.39% of Python3 online submissions for Fraction to Recurring Decimal.
   
 class Solution:
     def fractionToDecimal(self, numerator: int, denominator: int) -> str:

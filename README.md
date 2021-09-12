@@ -1,8 +1,8 @@
 # archive_LeetCode
 ```diff
 @@ LeetCode Solution Progress: @@
-+ Easy:206/511
-! Medium:64/1043 + 2(ref)
++ Easy:211/511
+! Medium:72/1043 + 2(ref)
 - Hard:10/419
 ```
 

@@ -7,4 +7,6 @@ LEFT JOIN Orders
 ON Customers.Id = Orders.CustomerId
 WHERE Orders.CustomerId IS Null
 
-HIHI
+
+
+goodmorning
